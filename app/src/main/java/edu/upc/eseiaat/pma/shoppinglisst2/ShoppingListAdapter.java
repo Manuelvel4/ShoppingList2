@@ -1,4 +1,4 @@
-package edu.upc.eseiaat.pma.shoppinglist;
+package edu.upc.eseiaat.pma.shoppinglisst2;
 
 import android.content.Context;
 import android.support.annotation.LayoutRes;
